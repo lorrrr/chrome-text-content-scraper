@@ -1,0 +1,1 @@
+# chrome-text-content-scraper
